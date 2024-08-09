@@ -1,0 +1,9 @@
+[
+    {
+        "bookId" :1,
+        "imagePath": "assets/images/name.jpg",
+        "bookName": "Book Name",
+        "price": 2000
+    }
+    
+]

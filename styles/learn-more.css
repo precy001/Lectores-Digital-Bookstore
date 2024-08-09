@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:'geologica', sans-serif;
+    background-color: #f8f8f8;
+}
+
+.nav{
+    float: right;
+    display: inline;
+    padding: 45px;
+    padding-right: 60px;
+  }
+
+  .login{
+    color: #9acd32;
+    text-decoration: none;
+    padding: 10px;
+    padding-right: 35px;
+  }
+  
+ .start{
+  color: white;
+  text-decoration: none;
+  background-color: #9acd32;
+  padding: 10px;
+  border-radius: .2rem;
+  border: 1px solid #9acd32;
+  transition: .5s ease-in-out;
+}
+
+.start:hover{
+  background-color: transparent;
+  border: 1px solid #9acd32;
+  color: #9acd32;
+}
+
+.head{
+    padding: 1.5rem;
+    padding-bottom: 0.5rem;
+    font-size: 2.5rem;
+}
+
+.hr{
+    width: 8%;
+    height: 2.5px;
+    background-color: #9acd32;
+    border: none;
+    border-radius: 2rem;
+}
+
+
+.writers{
+    padding:1rem 5rem;
+    margin-bottom: 0.5rem;
+}
+
+.readers{
+    padding:1rem 5rem;
+    margin-bottom: 0.5rem;
+}
+
+.top{
+    font-size: 1.8rem;
+    display: inline;
+}
+
+.hr-mini{
+    width: 5%;
+    height: 2.5px;
+    background-color: #9acd32;
+    border: none;
+    border-radius: 2rem;
+}
+
+.img{
+    float: right;
+    margin-top: -1rem;
+}
+
+.learn-more{
+    padding-top: 2rem;
+    padding: 6rem;
+}
+
+.steps{
+    padding: 1.5rem;
+    padding-bottom: 0;
+}
+
+.step{
+   padding-bottom: 2rem;
+    font-weight: 300;
+}
+
+.tip{
+    font-weight: 200;
+    margin-top: 1.5rem;
+}
